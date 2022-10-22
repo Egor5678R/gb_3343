@@ -1,0 +1,15 @@
+C:\homeworks\ex15\bin\Debug\net6.0\ex15.exe
+C:\homeworks\ex15\bin\Debug\net6.0\ex15.deps.json
+C:\homeworks\ex15\bin\Debug\net6.0\ex15.runtimeconfig.json
+C:\homeworks\ex15\bin\Debug\net6.0\ex15.dll
+C:\homeworks\ex15\bin\Debug\net6.0\ex15.pdb
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.csproj.AssemblyReference.cache
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.AssemblyInfoInputs.cache
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.AssemblyInfo.cs
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.csproj.CoreCompileInputs.cache
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.dll
+C:\homeworks\ex15\obj\Debug\net6.0\refint\ex15.dll
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.pdb
+C:\homeworks\ex15\obj\Debug\net6.0\ex15.genruntimeconfig.cache
+C:\homeworks\ex15\obj\Debug\net6.0\ref\ex15.dll
