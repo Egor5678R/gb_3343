@@ -1,7 +1,7 @@
 ﻿int number = ReadInt(" введите число N: ");
-for (int i = 1; i <= number; i++)
+for (int a = 1; a <= number; a++)
 { 
-    Console.Write($"{i*i*i} ");
+    Console.Write($"{a*a*a} ");
 }
 int ReadInt(string message)
 {
