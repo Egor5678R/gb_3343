@@ -1,0 +1,15 @@
+C:\homeworks\ex21\bin\Debug\net6.0\ex21.exe
+C:\homeworks\ex21\bin\Debug\net6.0\ex21.deps.json
+C:\homeworks\ex21\bin\Debug\net6.0\ex21.runtimeconfig.json
+C:\homeworks\ex21\bin\Debug\net6.0\ex21.dll
+C:\homeworks\ex21\bin\Debug\net6.0\ex21.pdb
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.csproj.AssemblyReference.cache
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.AssemblyInfoInputs.cache
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.AssemblyInfo.cs
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.csproj.CoreCompileInputs.cache
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.dll
+C:\homeworks\ex21\obj\Debug\net6.0\refint\ex21.dll
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.pdb
+C:\homeworks\ex21\obj\Debug\net6.0\ex21.genruntimeconfig.cache
+C:\homeworks\ex21\obj\Debug\net6.0\ref\ex21.dll
