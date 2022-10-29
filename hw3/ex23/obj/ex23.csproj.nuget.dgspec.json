@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\homeworks\\ex23\\ex23.csproj": {}
+    "C:\\homeworks\\hw3\\ex23\\ex23.csproj": {}
   },
   "projects": {
-    "C:\\homeworks\\ex23\\ex23.csproj": {
+    "C:\\homeworks\\hw3\\ex23\\ex23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\homeworks\\ex23\\ex23.csproj",
+        "projectUniqueName": "C:\\homeworks\\hw3\\ex23\\ex23.csproj",
         "projectName": "ex23",
-        "projectPath": "C:\\homeworks\\ex23\\ex23.csproj",
+        "projectPath": "C:\\homeworks\\hw3\\ex23\\ex23.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\homeworks\\ex23\\obj\\",
+        "outputPath": "C:\\homeworks\\hw3\\ex23\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
