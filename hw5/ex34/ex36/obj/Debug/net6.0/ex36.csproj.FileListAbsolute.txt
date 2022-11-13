@@ -1,0 +1,15 @@
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.csproj.AssemblyReference.cache
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.AssemblyInfoInputs.cache
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.AssemblyInfo.cs
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.csproj.CoreCompileInputs.cache
+C:\homeworks\ex36\bin\Debug\net6.0\ex36.exe
+C:\homeworks\ex36\bin\Debug\net6.0\ex36.deps.json
+C:\homeworks\ex36\bin\Debug\net6.0\ex36.runtimeconfig.json
+C:\homeworks\ex36\bin\Debug\net6.0\ex36.dll
+C:\homeworks\ex36\bin\Debug\net6.0\ex36.pdb
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.dll
+C:\homeworks\ex36\obj\Debug\net6.0\refint\ex36.dll
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.pdb
+C:\homeworks\ex36\obj\Debug\net6.0\ex36.genruntimeconfig.cache
+C:\homeworks\ex36\obj\Debug\net6.0\ref\ex36.dll
