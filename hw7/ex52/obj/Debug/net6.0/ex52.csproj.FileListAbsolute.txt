@@ -1,0 +1,15 @@
+C:\homeworks\ex52\bin\Debug\net6.0\ex52.exe
+C:\homeworks\ex52\bin\Debug\net6.0\ex52.deps.json
+C:\homeworks\ex52\bin\Debug\net6.0\ex52.runtimeconfig.json
+C:\homeworks\ex52\bin\Debug\net6.0\ex52.dll
+C:\homeworks\ex52\bin\Debug\net6.0\ex52.pdb
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.csproj.AssemblyReference.cache
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.AssemblyInfoInputs.cache
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.AssemblyInfo.cs
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.csproj.CoreCompileInputs.cache
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.dll
+C:\homeworks\ex52\obj\Debug\net6.0\refint\ex52.dll
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.pdb
+C:\homeworks\ex52\obj\Debug\net6.0\ex52.genruntimeconfig.cache
+C:\homeworks\ex52\obj\Debug\net6.0\ref\ex52.dll

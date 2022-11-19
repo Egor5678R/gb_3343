@@ -1,0 +1,15 @@
+C:\homeworks\ex47\bin\Debug\net6.0\ex47.exe
+C:\homeworks\ex47\bin\Debug\net6.0\ex47.deps.json
+C:\homeworks\ex47\bin\Debug\net6.0\ex47.runtimeconfig.json
+C:\homeworks\ex47\bin\Debug\net6.0\ex47.dll
+C:\homeworks\ex47\bin\Debug\net6.0\ex47.pdb
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.csproj.AssemblyReference.cache
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.AssemblyInfoInputs.cache
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.AssemblyInfo.cs
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.csproj.CoreCompileInputs.cache
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.dll
+C:\homeworks\ex47\obj\Debug\net6.0\refint\ex47.dll
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.pdb
+C:\homeworks\ex47\obj\Debug\net6.0\ex47.genruntimeconfig.cache
+C:\homeworks\ex47\obj\Debug\net6.0\ref\ex47.dll
