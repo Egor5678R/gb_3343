@@ -1,0 +1,15 @@
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.csproj.AssemblyReference.cache
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.AssemblyInfoInputs.cache
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.AssemblyInfo.cs
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.csproj.CoreCompileInputs.cache
+C:\homeworks\ex60\bin\Debug\net6.0\ex60.exe
+C:\homeworks\ex60\bin\Debug\net6.0\ex60.deps.json
+C:\homeworks\ex60\bin\Debug\net6.0\ex60.runtimeconfig.json
+C:\homeworks\ex60\bin\Debug\net6.0\ex60.dll
+C:\homeworks\ex60\bin\Debug\net6.0\ex60.pdb
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.dll
+C:\homeworks\ex60\obj\Debug\net6.0\refint\ex60.dll
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.pdb
+C:\homeworks\ex60\obj\Debug\net6.0\ex60.genruntimeconfig.cache
+C:\homeworks\ex60\obj\Debug\net6.0\ref\ex60.dll
